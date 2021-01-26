@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "89461793844",
+    "project_id": "ladmu5cabc",
+    "storage_bucket": "ladmu5cabc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89461793844:android:3ef660821097f7f8949661",
+        "android_client_info": {
+          "package_name": "mx.tecnm.tepic.ladm_u5_practica1_mapatec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89461793844-nq06eugbb1vinl3g7vt133h22tn40tat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmw2IBM47_nAAd793Oa-uyS6BwRDbuVKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89461793844-nq06eugbb1vinl3g7vt133h22tn40tat.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
